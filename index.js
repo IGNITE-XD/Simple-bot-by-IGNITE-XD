@@ -49,7 +49,7 @@ client.on('message', msg => {
         msg.channel.send('Like And Subscribe!');
     }
 
-    if (msg.content === 'myr') {
+    if (msg.content === 'myre') {
         msg.channel.send(`Oode Noobe`);
     }
 
