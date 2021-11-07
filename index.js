@@ -12,6 +12,10 @@ const { Client, RichEmbed } = require('discord.js');
 const client = new Client();
 
 client.on('ready', () => {
+ client.user.setActivity(`CKMMRP`, { type: 'WATCHING' })
+}) 
+
+client.on('ready', () => {
     console.log('Bot Now connected!');
     console.log('Logged In as', client.user.tag)
     client.user.setStatus('online'); // online, idle, invisible, dnd
