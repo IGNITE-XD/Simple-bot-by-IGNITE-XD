@@ -1,7 +1,7 @@
 # Simple-bot-by-IGNITE-999
-By IGNITE 999
+By IGNITE XD
 
-A Fun And Simple Bot By IGNITE 999!
+A Fun And Simple Bot By IGNITE XD!
 
 step1 : Type 'npm i' on console of replit!
 
