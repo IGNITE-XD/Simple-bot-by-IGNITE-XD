@@ -1,4 +1,4 @@
-# Simple-bot-by-IGNITE-999
+# Simple-bot-by-IGNITE-XD
 By IGNITE XD
 
 A Fun And Simple Bot By IGNITE XD!
